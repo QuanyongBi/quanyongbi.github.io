@@ -4,124 +4,43 @@ title: About
 permalink: /about/
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+# About Me
 
-[Link to another page](./another-page.html).
+## Introduction
+Hello! I am Quanyong Bi, a current Senior pursuing both BS and MS of Computer Science in USC. I'm a full-stack developer and a guitarist. My coding journey is driven by curiosity, and I hope you'll like the things I created.
 
-There should be whitespace between paragraphs.
+##### 📫 Reach me out! **bqy1220@gmail.com**
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+##
+### Education
+#### University of Southern California
+**Bachelor of Science** in CS
+- **Expected Graduation Date**: December, 2024
+- **GPA**: 3.8/4
 
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+**Master of Science** in Computer Science
+- **Expected Graduation Date**: May, 2026
 
 
-### Definition lists can be used with HTML syntax.
+## Experiences
+### OinAuto
+- **Role**: Fullstack Developer Intern
+- **Duration**: [May, 2024] - [Aug, 2024]
+- **Achievements**:
+  - Led a team of 10 interns to revise an internal internship management system from static PHP to a Django + React + Nginx framework website.
+  - Demo: https://beingcareers.com/ (complete version is still under development)
+  - Contributed to a traffic safety monitoring project by researching Single Shot Detection and implementing a customized model with an 80% mAP.
 
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
+### Hotland LLC
+- **Role**: Mobile Developer Intern
+- **Duration**: [Jan, 2023] - [May, 2023]
+- **Achievements**:
+  - Led the development of an Android VPN management application on the V2Ray platform, streamlining user experiences in purchasing, configuring, and managing VPN services.
+  - Enhanced app usability by 40% and increased daily active users by 25% within three months post-launch by designing and implementing a user-friendly interface using Kotlin and Jetpack Compose for an Android VPN management app.
+  - Achieved a 99.9% error-free communication rate and significantly improved app reliability by engineering robust RESTful API integrations for real-time synchronization with remote servers.
 
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
+## Technical Skillsets
+- **Languages**: Python, Java, JavaScript, C++, Flutter, Kotlin, Swift.
+- **Frameworks & Libraries**: Django, React, SpringBoot.
+- **Tools & Platforms**: Git, Docker, AWS, PostgreSQL, MySQL, Redis, Kafka, Nginx.
 
-```
-The final element.
-```
-
-## Emojis
